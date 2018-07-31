@@ -23,15 +23,15 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 
 Study jam:
 
-1)https://www.youtube.com/watch?v=jsGs9z7TuyY
+1) https://www.youtube.com/watch?v=jsGs9z7TuyY
 
-2)https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+2) https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-3)https://www.theodinproject.com/courses/html5-and-css3
+3) https://www.theodinproject.com/courses/html5-and-css3
 
-4)https://codepen.io/michaelgearon/post/flexbox-guide
+4) https://codepen.io/michaelgearon/post/flexbox-guide
 
-5)http://eloquentjavascript.net/
+5) http://eloquentjavascript.net/
 
 ###Contributing:
 
