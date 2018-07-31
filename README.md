@@ -21,8 +21,6 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 
 ### Recourses:
 
-Study jam:
-
 1) https://www.youtube.com/watch?v=jsGs9z7TuyY
 
 2) https://css-tricks.com/snippets/css/a-guide-to-flexbox/
