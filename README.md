@@ -1,5 +1,6 @@
 ## Project Overview:
-This project is from Udacity's Front End Web Nanodegree. You can find the starter code for this project here:https://github.com/udacity/mws-restaurant-stage-1.
+This project is from Udacity's Front End Web Nanodegree. You can find the starter code for this project here:
+https://github.com/udacity/mws-restaurant-stage-1.
 
 ## Google Maps API:
 This app uses mainly the Google Maps API.
@@ -9,18 +10,27 @@ https://developers.google.com/maps/documentation/javascript/tutorial
 
 https://cloud.google.com/maps-platform/
 
-However if you want to use [Mapbox](https://www.mapbox.com/) since its free to use and does not require any payment information and [leafletjs](https://leafletjs.com/) just check out the code in the original repository in Udacity.
+However if you want to use [Mapbox](https://www.mapbox.com/) 
+since its free to use and does not require any payment information and 
+[leafletjs](https://leafletjs.com/) 
+just check out the code in the original repository in Udacity.
 
 ### Note about ES6
 
 Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write.
 
 ###Recourses:
+
 Study jam:
+
 https://www.youtube.com/watch?v=jsGs9z7TuyY
+
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
 https://www.theodinproject.com/courses/html5-and-css3
+
 https://codepen.io/michaelgearon/post/flexbox-guide
+
 http://eloquentjavascript.net/
 
 ###Contributing:
