@@ -23,17 +23,18 @@ Most of the code in this project has been written to the ES6 JavaScript specific
 
 Study jam:
 
-https://www.youtube.com/watch?v=jsGs9z7TuyY
+1)https://www.youtube.com/watch?v=jsGs9z7TuyY
 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+2)https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-https://www.theodinproject.com/courses/html5-and-css3
+3)https://www.theodinproject.com/courses/html5-and-css3
 
-https://codepen.io/michaelgearon/post/flexbox-guide
+4)https://codepen.io/michaelgearon/post/flexbox-guide
 
-http://eloquentjavascript.net/
+5)http://eloquentjavascript.net/
 
 ###Contributing:
+
 Make sure to run your code first from a code beautifier
 
 Write it in es6 or transform it using:https://lebab.io/try-it
