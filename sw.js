@@ -1,6 +1,6 @@
 const cacheName = "app-static-v1";
 const urlsToCache = [
-'/',
+	'/',
   'css/styles.css',
   'data/restaurants.json',
   'img/1.jpg',
@@ -13,14 +13,15 @@ const urlsToCache = [
   'img/8.jpg',
   'img/9.jpg',
   'img/10.jpg',
-  'js/dbhelper.js',
+	'js/dbhelper.js',
   'js/main.js',
   'js/restaurant_info.js'
 ];
+
 self.addEventListener('install', event => {
 	event.waitUntil(
-		caches.open(cacheName).then(cache => cacheaddAll(urlsToCache);
-        ]))
+		caches.open(cacheName).then(cache => {return cacheaddAll(urlsToCache);
+		}  ]))
 	);
 
 self.addEventListener('fetch', event => {
